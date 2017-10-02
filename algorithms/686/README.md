@@ -1,5 +1,5 @@
 # Problem
-    [686. Repeated String Match](https://leetcode.com/contest/leetcode-weekly-contest-52/problems/repeated-string-match/)
+[686. Repeated String Match](https://leetcode.com/contest/leetcode-weekly-contest-52/problems/repeated-string-match/)
 
 # Solution
 In simple, just only think about the case size of A is equal or greater than size of B.
