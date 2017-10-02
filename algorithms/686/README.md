@@ -1,4 +1,4 @@
-#Problem
+# Problem
     [686. Repeated String Match](https://leetcode.com/contest/leetcode-weekly-contest-52/problems/repeated-string-match/)
 
 # Solution
